@@ -14,4 +14,10 @@ Este gestor de alumnos tienes varias opciones :
 
 Usado con constructores, encapsulaciones, metodos instancia, atributos privatos, getter/setter etc..
 
+La primera opcion por defecto empieza en la primera posicion de arrays, hacemos pedir al usuario un DNI, nombre, nota de programacion, nota de Base de Datos
+
+Una vez terminado o creado el objeto, se actualiza el indice o la posicion para crear un objeto para la siguiente vez 
+
+
+
 (*En proceso*)
